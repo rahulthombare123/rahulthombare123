@@ -63,7 +63,7 @@ Currently looking for opportunities as a **Frontend / MERN Stack Developer**.
 
 - Email: [thombare2019r@gmail.com](mailto:thombare2019r@gmail.com)  
 - LinkedIn: [Rahul Thombare](https://www.linkedin.com/in/rahul-thombare-971619236)  
-- GitHub: [yourusername](https://github.com/rahulthombare123)  
+- GitHub: (https://github.com/rahulthombare123)  
 
 ---
 
