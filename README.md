@@ -17,7 +17,7 @@ Currently looking for opportunities as a **Frontend / MERN Stack Developer**.
 ## 🌐 Socials
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rahul-thombare-971619236)  
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:thombare2019r@gmail.com)  
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&to=thombare2019r@gmail.com)  
 [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yourusername)
 
 ---
@@ -61,13 +61,13 @@ Currently looking for opportunities as a **Frontend / MERN Stack Developer**.
 
 ## 📫 Contact Me
 
-- Email: [thombare2019r@gmail.com](mailto:thombare2019r@gmail.com)  
+- Email: [Click to Gmail](https://mail.google.com/mail/?view=cm&to=thombare2019r@gmail.com)  
 - LinkedIn: [Rahul Thombare](https://www.linkedin.com/in/rahul-thombare-971619236)  
-- GitHub: (https://github.com/rahulthombare123)  
+- GitHub: [rahulthombare123](https://github.com/yourusername)  
 
 ---
 
-## 🌸 THANK YOU FOR VISITING.....
+## 🌸 Fun / Anime Section
 
 <p align="center">
   <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="350" alt="Cute Anime" />
