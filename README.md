@@ -51,7 +51,7 @@ Currently looking for opportunities as a **Frontend / MERN Stack Developer**.
 
 | Project | Tech Stack | Link |
 |---------|------------|------|
-| Star Pattern Generator | HTML, CSS, JS | [GitHub](#) |
+| Star Pattern Generator | HTML, CSS, JS,react | [GitHub](#) |
 | Portfolio Website | React, Tailwind | [Live Demo](#) |
 | AI Wallpaper Generator | Node, Express, JS | [GitHub](#) |
 
