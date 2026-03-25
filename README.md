@@ -11,7 +11,7 @@ I am a * Frontend Developer** building responsive and interactive web applicatio
 I love writing **clean, reusable code** and learning new technologies every day.  
 Currently looking for opportunities as a **Frontend / MERN Stack Developer**.
 
-----
+-----
 
 ## 🌐 Socials
 
