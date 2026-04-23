@@ -55,7 +55,7 @@ Currently looking for opportunities as a **Frontend / MERN Stack Developer**.
 | Portfolio Website | React, Tailwind | [Live Demo](#) |
 | AI Wallpaper Generator | Node, Express, JS | [GitHub](#) |
 
-> Add more projects with links as you build them.
+
 
 ---
 
