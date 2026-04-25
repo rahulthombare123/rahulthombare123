@@ -18,7 +18,7 @@ Currently looking for opportunities as a **Frontend / MERN Stack Developer**.
 [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rahulthombare123
 )
 
----
+
 
 ## 💻 Tech Stack
 
