@@ -2,7 +2,7 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2000&pause=1000&center=true&vCenter=true&width=435&lines=Frontend+Developer;MERN+Stack+Developer;Passionate+about+Web+Development" alt="Typing SVG"/>
 </p>
- 
+  
 ## 👨‍💻 About Me
 
 I am a * Frontend Developer** building responsive and interactive web applications.  
