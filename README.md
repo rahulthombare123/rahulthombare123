@@ -63,7 +63,6 @@ Currently looking for opportunities as a *Frontend / MERN Stack Developer*.
 - LinkedIn: [Rahul Thombare](https://www.linkedin.com/in/rahul-thombare-971619236)  
 - GitHub: [rahulthombare123](https://github.com/rahulthombare123
 )  
-
 ---
 
 ## 🌸 Thank you for visiting.....
